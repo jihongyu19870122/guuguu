@@ -99,5 +99,6 @@ window环境&mac环境：
 - 导入项目、项目入口在 main.Main
 
 交流QQ：27789007
+技术交流QQ群：1055802770
 
 [获取源码>>](http://www.hxdwe.cn:8001/product/seoz)
